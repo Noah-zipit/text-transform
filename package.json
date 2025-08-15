@@ -1,0 +1,19 @@
+{
+  "name": "style-transformer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^2.0.0",
+    "@sveltejs/adapter-vercel": "^3.1.0",
+    "@sveltejs/kit": "^1.20.0",
+    "@sveltejs/vite-plugin-svelte": "^2.4.0",
+    "svelte": "^4.0.0",
+    "vite": "^4.3.0"
+  },
+  "type": "module"
+}
